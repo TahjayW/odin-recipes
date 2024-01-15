@@ -6,7 +6,7 @@ Webpage to include basics of web design.
 ++STRUCTURE++
 Main index.html to contain a recipes directory.
 Recipes listed follow the format "FoodNameHere.html".
-Recipe names written in h1 headings.
+Recipe names listed in unordered list.
 Recipe pages linked relatively back through index.html.
 Each link will be the recipe names themselves.
 
