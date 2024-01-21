@@ -1,0 +1,20 @@
+.TitleHeader{
+    color: rgb(76, 0, 255);
+    font-size: 48px;
+    
+}
+
+.LinkText{
+    font-size: 24px;
+    
+}
+
+.LinkText, .TitleHeader{
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+.BackgroundImage{
+    height: auto;
+    width: 500x;
+}
