@@ -1,20 +1,42 @@
-.TitleHeader{
-    color: rgb(76, 0, 255);
-    font-size: 48px;
-    
+
+/* Left Menu lists */
+li {
+	list-style: none;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin-right: auto;
+	margin-left: -27px;
+	margin-bottom: 4px;
+	font-weight: bold;
+	background: lightblue;
+	color: white;
+	width: 15%;
+	text-align: center;
 }
 
-.LinkText{
-    font-size: 24px;
-    
+/* Page Title */
+.titlecard{
+    font-size: 20px;
+    color: white;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+    width: 50%;
+    display: block;
+    text-align: center;
+    background-color: rgb(8, 84, 184);
+    font-family: Tahoma, sans-serif;
 }
-
-.LinkText, .TitleHeader{
-    font-weight: bold;
-    font-family: Helvetica;
-}
-
-.BackgroundImage{
-    height: auto;
-    width: 500x;
+/* Individual Menu Items */
+.RecipeMenu {
+	margin-right: auto;
+	margin-left: 11px;
+	font: 20px;
+	text-align: center;
+	border-style: unset;
+	width: 15%;
+	background-color: lightblue;
+	color: white;
+	font-family: Tahoma;
+	padding: 20px;
 }
